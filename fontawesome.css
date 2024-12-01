@@ -4589,7 +4589,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   font-display: block;
   src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css");
-  src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"), url("../webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
+  src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fa-solid-900.woff2") format("woff2"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-brands-400.woff") format("woff"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-regular-400.ttf") format("truetype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-brands-400.svg#fontawesome") format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands';
@@ -4600,7 +4600,7 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
   font-display: block;
   src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css");
-  src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-regular-400.woff") format("woff"), url("../webfonts/fa-regular-400.ttf") format("truetype"), url("../webfonts/fa-regular-400.svg#fontawesome") format("svg"); }
+  src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css?#iefix") format("embedded-opentype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fa-solid-900.woff2") format("woff2"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-brands-400.woff"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-regular-400.ttf") format("truetype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-regular-400.svg#fontawesome") format("svg"); }
 
 .far {
   font-family: 'Font Awesome 5 Free';
@@ -4611,7 +4611,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900;
   font-display: block;
   src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css");
-  src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"), url("../webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+  src: url("https://rawcdn.githack.com/vampirumano/Tapia-Store/999db45c6394128cd7708021d74e62946dbf3fd4/fontawesome.min.css?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2") format("woff2"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-brands-400.woff") format("woff"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-regular-400.ttf") format("truetype"), url("https://rawcdn.githack.com/vampirumano/Tapia-Store/c297f307fcbcbe0f51f0288a20853a2f532a6210/fa-solid-900.svg#fontawesome") format("svg"); }
 
 .fa,
 .fas {
